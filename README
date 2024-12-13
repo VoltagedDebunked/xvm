@@ -1,0 +1,19 @@
+=================================
+XVM - An Extended Virtual Machine
+=================================
+
+-----------
+Description
+
+XVM Is a hobby project by me that is a virtual machine that lets you run simple ISO files.
+
+Current issues:
+
+- Text from VGA Not loading
+- Not much opcode support (yet there are a lot but in a real world scenario its way more)
+- Simple architecture, x86-64/32 limited.
+
+---------
+Licensing
+
+This is licensed under GPL-3.O. See the LICENSE file for details.

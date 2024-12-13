@@ -1,0 +1,8 @@
+/.vscode/
+/.idea/
+
+/bin/
+/build/
+
+*.iso
+*.hdd
